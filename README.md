@@ -61,4 +61,8 @@ Through this project, practiced:
 - Date and time for notes
 - Improved mobile responsiveness
 
- 
+ ## Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jasnafathim/)
+- [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@jasnafathim/)
+- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Jasnafathim/)
+
