@@ -1,4 +1,4 @@
-#Notes Website#
+# Notes Website
 
 A simple and user-friendly **Notes Website** built using HTML, CSS, and JavaScript. The website allows users to create, edit, and delete notes. Notes are automatically saved in the browser using Local Storage.
 
