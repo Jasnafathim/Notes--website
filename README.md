@@ -40,9 +40,9 @@ showNotes();
 
 ![second](second.png)
 
-![second](third.png)
+![third](third.png)
 
-![second](forth.png)
+![forth](forth.png)
 
 ## What I Learned
 Through this project, practiced:
